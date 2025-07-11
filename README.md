@@ -12,7 +12,11 @@ This project aims to forecast daily Air Quality Index (AQI) in Delhi using multi
 
   4. XGBoost
 
-  5. Artificial Neural Network (ANN)
+  5. Decision tree
+
+  6. Artificial Neural Network (ANN)
+
+  7. stacked ensemble
 
 
 ***Evaluation Metrics:
