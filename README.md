@@ -28,6 +28,7 @@ Models were evaluated using the following metrics:
 
 
 ***Explainability with SHAP:
+
 SHAP was used to interpret the best-performing stacked ensemble model, highlighting the impact of individual pollutants on AQI forecasts. This helped in identifying key pollutants and understanding the model's decision-making process.
 
 
